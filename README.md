@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I'll think you will love the projects listed below.
+
+⚡ Fun fact: i have cookies.
+
 <!--
 **MaikeMLW/MaikeMLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
